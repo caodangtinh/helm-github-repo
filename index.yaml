@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2020-07-12T13:20:10.836643018+07:00"
+entries:
+  github-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-12T13:32:11.619773801+07:00"
+    description: A Helm chart for Kubernetes
+    digest: ed11926076d4255e7fa0ba0d749f471c9c041d79abed3222457c96eeadb04eec
+    name: github-chart
+    type: application
+    urls:
+    - github-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-12T13:32:11.619291464+07:00"
