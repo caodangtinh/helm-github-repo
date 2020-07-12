@@ -3,7 +3,7 @@ entries:
   github-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-07-12T13:32:11.619773801+07:00"
+    created: "2020-07-12T13:38:46.707656104+07:00"
     description: A Helm chart for Kubernetes
     digest: ed11926076d4255e7fa0ba0d749f471c9c041d79abed3222457c96eeadb04eec
     name: github-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - github-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2020-07-12T13:32:11.619291464+07:00"
+  nginx-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-12T13:38:46.708166409+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 23c0e8def09e645311dcbc8f1d95b2be75082be52f46159b88c57a0be835b6b2
+    name: nginx-chart
+    type: application
+    urls:
+    - nginx-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-12T13:38:46.706992221+07:00"
